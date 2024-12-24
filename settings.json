@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\rteja\\OneDrive\\Desktop\\unversity management system\\mysql-connector-java-8.0.28 (1).jar",
+        "c:\\Users\\rteja\\Downloads\\jcalendar-tz-1.3.3-4.jar",
+        "c:\\Users\\rteja\\Downloads\\mysql-connector-java-8.0.28 (1).jar",
+        "c:\\Users\\rteja\\Downloads\\rs2xml (1).jar"
+    ]
+}
